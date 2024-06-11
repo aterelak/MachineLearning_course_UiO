@@ -2,7 +2,7 @@
 
 The repository contains three group final projects and weekly exercises prepared during the academic course [FYS-STK4155 - Applied Data Analysis and Machine Learning](https://www.uio.no/studier/emner/matnat/fys/FYS-STK4155/index-eng.html), taught in the fall semester 2023/24 at the [University of Oslo (UiO)](https://www.uio.no/english/).
 
-*Authors of projects and exercises:* [Alicja K. Terelak](https://github.com/aterelak), [Giorgio Chiro](https://github.uio.no/giorgich), [Eyyüb Güven](https://github.com/curiousbrutus) 
+**Authors of projects and exercises:** [Alicja K. Terelak](https://github.com/aterelak), [Giorgio Chiro](https://github.uio.no/giorgich), [Eyyüb Güven](https://github.com/curiousbrutus) 
 
 ## Course information
 The information below is taken from the description on the [course's official GitHub](https://github.com/CompPhysics/MachineLearning.git).
