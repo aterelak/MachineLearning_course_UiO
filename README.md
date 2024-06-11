@@ -6,6 +6,7 @@ The repository contains three group final projects and weekly exercises prepared
 
 ## Course information
 The information below is taken from the description on the [course's official GitHub](https://github.com/CompPhysics/MachineLearning.git).
+
 _I made some small edits to the original content myself._
 
 ###  Teaching team Fall 2023
