@@ -1,0 +1,2 @@
+CNN time: 9 combinations of lmbd and eta, 10 epochs each 13 mins average performance : almost perfect
+NN time: 9 combinations of lmbd and eta, 10 epochs each 12 mins, average performance : not good
